@@ -26,7 +26,7 @@ defmodule ExAttack do
 
   defp do_move({:ok, move}) do
     case move do
-      :move_heal -> "curar"
+      :move_heal -> Actions.heal()
       move -> Actions.attack(move)
     end
 
