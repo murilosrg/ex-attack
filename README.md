@@ -1,3 +1,5 @@
+![Elixir CI](https://github.com/murilosrg/ex-attack/workflows/Elixir%20CI/badge.svg?branch=master)
+
 # ExAttack
 
 A turn based game to attack your opponent
